@@ -1,3 +1,27 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">👋 Hi, I’m Eduardo Possani, a new programmer<br>💻 Skilled in Python, deep learning, and PostgreSQL<br>🌱 Always learning and exploring AI and data science<br>🤝 Open to collaborations and innovative projects<br>📫 Let's connect!</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -18,5 +42,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/EduardoPossani/EduardoPossani/output/snake.svg" alt="Snake animation" />
 
 ###
