@@ -44,7 +44,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/EduardoPossani/EduardoPossani/output/snake.svg" alt="Snake animation" />
-
-###
